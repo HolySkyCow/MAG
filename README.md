@@ -1,0 +1,2 @@
+# MAG
+Mag nalog TP
