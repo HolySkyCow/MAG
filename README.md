@@ -1,3 +1,2 @@
 # MAG
-Mag nalog TP
-123
+Mag naloga TP
